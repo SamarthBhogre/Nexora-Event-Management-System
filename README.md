@@ -1,4 +1,4 @@
-# Nexora - Event Management Website
+2# Nexora - Event Management Website
 
 Modern, scalable event management platform built with React, Express, TypeScript, and MySQL.
 
@@ -86,7 +86,7 @@ See backend/README.md for MySQL setup instructions.
 
 ## 📝 License
 
-MIT License - Team Project 2025
+MIT License - Team Project 2026
 
 ## 🤝 Contributing
 
