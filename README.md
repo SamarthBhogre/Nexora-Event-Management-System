@@ -97,6 +97,6 @@ MIT License - Team Project 2025
 
 ---
 
-**Last Updated**: May 2025  
+**Last Updated**: May 2026
 **Status**: Phase 1 - Setup & Planning  
 **GitHub**: [Nexora Event Management](https://github.com/yourusername/nexora-event-management)
