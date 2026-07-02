@@ -13,25 +13,25 @@ const teamMembers: TeamMember[] = [
   {
     name: 'Dhyey',
     role: 'UI/UX Design',
-    image: 'https://api.dicebear.com/7.x/avataaars/svg?seed=Dhyey',
+    image: 'https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f468-200d-1f3a8.svg',
     bio: 'Creative designer focused on user experience and modern interfaces',
   },
   {
     name: 'Vidhan',
     role: 'Database Design',
-    image: 'https://api.dicebear.com/7.x/avataaars/svg?seed=Vidhan',
+    image: 'https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f468.svg',
     bio: 'Data architecture expert ensuring scalable and efficient systems',
   },
   {
     name: 'Samarth',
     role: 'Full Stack Development',
-    image: 'https://api.dicebear.com/7.x/avataaars/svg?seed=Samarth',
+    image: 'https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f468-200d-1f4bb.svg',
     bio: 'Full-stack developer building robust and scalable applications',
   },
   {
     name: 'Manthan',
     role: 'Testing & QA',
-    image: 'https://api.dicebear.com/7.x/avataaars/svg?seed=Manthan',
+    image: 'https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f468-200d-1f52c.svg',
     bio: 'QA specialist ensuring quality and reliability of the platform',
   },
 ];
