@@ -15,6 +15,7 @@ Welcome to Syncova Event Management System! Here's a guide to all available docu
 
 ### For Implementation Details
 👉 **[IMPLEMENTATION_SUMMARY.md](./IMPLEMENTATION_SUMMARY.md)** - What's been built and next steps
+👉 **[docs/FINAL_PROJECT_DOCUMENTATION.md](./docs/FINAL_PROJECT_DOCUMENTATION.md)** - Final report, SRS, scope, and viva prep
 
 ---
 
@@ -74,6 +75,7 @@ cd frontend && npm run dev
 ├── QUICK_START.md            ← 5-minute setup
 ├── SETUP_GUIDE.md            ← Complete setup (13,000+ words)
 ├── IMPLEMENTATION_SUMMARY.md  ← Phase 1 completion report
+├── docs/FINAL_PROJECT_DOCUMENTATION.md ← Final report + SRS
 └── INDEX.md                  ← This file
 ```
 
